@@ -14,17 +14,20 @@ private, and every action leaves a record.
 
 ## Why Arix exists
 
-AI agents that "do things" are everywhere now. Most are built for one technical person running everything on their
-own machine. That's great for tinkerers. It is the wrong shape for a dental front desk, a law office or a family
-business:
+AI assistants that act for you now come in two kinds, and neither fits a business very well.
 
-- **Everyone shares one agent with full access.** You can't give the receptionist less than the owner.
-- **The agent can act on anything it reads.** One booby-trapped email or web page can steer it.
-- **Add-ons come from strangers.** Public skill marketplaces have already been used to spread malware.
-- **"Always on" means a computer left exposed to the internet**, with your keys on it.
-- **When something goes wrong, there's no record** of who asked for what.
+**Do-it-yourself agents** are powerful and free to run on your own machine. But they're built for one technical
+person, and you become the security team. Access is all or nothing, add-ons come from strangers, and keeping it
+always on means keeping a computer exposed to the internet.
 
-Arix starts from the other end: **a team, a business, and data you're responsible for.**
+**Big-platform agents** are polished and easy to start. But your assistant, its memory of you and your customers,
+and the data it works with live on someone else's platform. You get their AI, their rules, the countries they
+serve, and their promise not to look.
+
+**Arix is the third kind: an assistant your business owns.** It's built for a team. Your conversations, memory,
+passwords and AI models stay on your own computer, and it isn't locked to any one company's platform.
+
+> Other assistants are a product you join. Arix is an assistant your business owns.
 
 | | How Arix handles it |
 |---|---|
@@ -35,6 +38,8 @@ Arix starts from the other end: **a team, a business, and data you're responsibl
 | **On the record** | Sign-ins, changes, refusals and every conversation are logged, per person. |
 | **No add-on roulette** | Capabilities are reviewed and built in, not downloaded from a public marketplace. |
 | **Reachable, not exposed** | The phone line and chat are always up in the cloud; your computer is never opened to the internet. |
+| **Your choice of AI** | Use private models on your own computer or any major provider, and switch whenever you like. |
+| **No middleman** | No platform takes a cut of what your assistant does or decides what it's allowed to do. |
 
 ---
 
