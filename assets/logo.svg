@@ -140,54 +140,52 @@
     <rect x="0" y="0" width="3" height="36" rx="1.5" fill="#34d399" opacity="0.8"/>
     <!-- Security line -->
     <text x="14" y="14" font-family="'SF Pro Display', 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#34d399">Secure by design.</text>
-    <!-- Build anything line -->
-    <text x="156" y="14" font-family="'SF Pro Display', 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">Build anything. Integrate everything. Just ask.</text>
-    <!-- Framework not product -->
-    <text x="14" y="32" font-family="'SF Pro Display', 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" fill="#64748b">A framework, not a product — the last AI architecture you'll need.</text>
+    <!-- Who it is for -->
+    <text x="156" y="14" font-family="'SF Pro Display', 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">Safe to hand to your staff and customers.</text>
+    <!-- What makes it safe -->
+    <text x="14" y="32" font-family="'SF Pro Display', 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" fill="#64748b">Access by person · private memory and keys · every action on the record.</text>
   </g>
 
-  <!-- Arix Architecture layer badges -->
+  <!-- What you get -->
   <g transform="translate(290, 210)">
     <!-- Goals -->
     <g>
       <rect x="0" y="0" width="78" height="28" rx="6" fill="#00f0ff" opacity="0.12" stroke="#00f0ff" stroke-width="0.8" stroke-opacity="0.3"/>
-      <text x="39" y="18" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="11" fill="#00f0ff" text-anchor="middle" font-weight="600">Goals</text>
+      <text x="39" y="18" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="11" fill="#00f0ff" text-anchor="middle" font-weight="600">Chat</text>
     </g>
     <!-- Orchestration -->
     <g>
       <rect x="88" y="0" width="116" height="28" rx="6" fill="#a855f7" opacity="0.12" stroke="#a855f7" stroke-width="0.8" stroke-opacity="0.3"/>
-      <text x="146" y="18" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="11" fill="#a855f7" text-anchor="middle" font-weight="600">Orchestration</text>
+      <text x="146" y="18" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="11" fill="#a855f7" text-anchor="middle" font-weight="600">Access by role</text>
     </g>
     <!-- Tools -->
     <g>
       <rect x="214" y="0" width="72" height="28" rx="6" fill="#f472b6" opacity="0.12" stroke="#f472b6" stroke-width="0.8" stroke-opacity="0.3"/>
-      <text x="250" y="18" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="11" fill="#f472b6" text-anchor="middle" font-weight="600">Tools</text>
+      <text x="250" y="18" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="11" fill="#f472b6" text-anchor="middle" font-weight="600">Audit</text>
     </g>
     <!-- Context -->
     <g>
       <rect x="296" y="0" width="82" height="28" rx="6" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="0.8" stroke-opacity="0.3"/>
-      <text x="337" y="18" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="11" fill="#34d399" text-anchor="middle" font-weight="600">Context</text>
+      <text x="337" y="18" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="11" fill="#34d399" text-anchor="middle" font-weight="600">Memory</text>
     </g>
     <!-- Hardprompts -->
     <g>
       <rect x="388" y="0" width="108" height="28" rx="6" fill="#fb923c" opacity="0.12" stroke="#fb923c" stroke-width="0.8" stroke-opacity="0.3"/>
-      <text x="442" y="18" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="11" fill="#fb923c" text-anchor="middle" font-weight="600">Templates</text>
+      <text x="442" y="18" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="11" fill="#fb923c" text-anchor="middle" font-weight="600">Your keys</text>
     </g>
     <!-- Args -->
     <g>
       <rect x="506" y="0" width="66" height="28" rx="6" fill="#3b82f6" opacity="0.12" stroke="#3b82f6" stroke-width="0.8" stroke-opacity="0.3"/>
-      <text x="539" y="18" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="11" fill="#3b82f6" text-anchor="middle" font-weight="600">Config</text>
+      <text x="539" y="18" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="11" fill="#3b82f6" text-anchor="middle" font-weight="600">Voice</text>
     </g>
   </g>
 
-  <!-- Bottom — "Say it. Build it." examples -->
+  <!-- Bottom — things people ask -->
   <g transform="translate(290, 260)">
-    <text x="0" y="14" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="12" fill="#475569">"Build me a Slack integration"</text>
-    <text x="260" y="14" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="12" fill="#34d399">&#x2192; Done.</text>
-    <text x="330" y="14" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="12" fill="#475569">"Add a Discord bot"</text>
-    <text x="530" y="14" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="12" fill="#34d399">&#x2192; Done.</text>
-    <text x="594" y="14" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="12" fill="#475569">"Ship it."</text>
-    <text x="665" y="14" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="12" fill="#34d399">&#x2192; Done.</text>
+    <text x="0" y="14" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="12" fill="#475569">"Confirm tomorrow's patients"</text>
+    <text x="226" y="14" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="12" fill="#34d399">&#x2192; Done.</text>
+    <text x="300" y="14" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="12" fill="#475569">"Call me if it's urgent"</text>
+    <text x="482" y="14" font-family="'SF Mono', 'Cascadia Code', monospace" font-size="12" fill="#34d399">&#x2192; Done.</text>
   </g>
 
   <!-- Bottom accent line -->
