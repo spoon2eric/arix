@@ -4,7 +4,7 @@
 
 <h3 align="center">The AI assistant you can safely hand to your staff and your customers.</h3>
 
-<p align="center"><a href="https://arixone.com/#early-access"><strong>Join the waitlist →</strong></a></p>
+<p align="center"><a href="https://arixone.com/#early-access"><strong>Join the waitlist →</strong></a> · <a href="https://x.com/TheArixOne">Follow @TheArixOne on X</a></p>
 
 Arix answers your phone, texts, chats and email. It books, reminds, follows up and remembers. It is built for a
 business with real people and real data, so everyone gets only the access you give them, private things stay
@@ -138,7 +138,7 @@ Every change to Arix is tested automatically before it goes live, and everything
 
 ---
 
-<p align="center"><a href="https://arixone.com/#early-access"><strong>Join the waitlist at arixone.com →</strong></a></p>
+<p align="center"><a href="https://arixone.com/#early-access"><strong>Join the waitlist at arixone.com →</strong></a><br/>Follow along on X: <a href="https://x.com/TheArixOne">@TheArixOne</a></p>
 
 ---
 
